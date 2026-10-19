@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "bowerbird-v3",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8080", "--directory", "D:/00_5project_Final/04_bowerbird-pro.github.io/boewrbirdpro-V3"],
+      "port": 8080
+    }
+  ]
+}

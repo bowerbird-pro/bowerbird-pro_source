@@ -1,0 +1,9 @@
+# 의존성
+node_modules/
+
+# 앱이 쓰지 않는 제품 사진·자료(342MB) — 저장소에 넣지 않는다(2026-10-19)
+assets/brixel_sensor/
+
+# OS
+desktop.ini
+Thumbs.db

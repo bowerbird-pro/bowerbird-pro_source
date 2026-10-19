@@ -1,0 +1,22 @@
+project-root/
+├── index.html          # Landing page (Updated paths)
+├── app.html            # Main App (Renamed from boewrbirdpro.html, uses js/main.js)
+├── information.html    # Guide (Updated paths)
+├── css/
+│   └── style.css       # Moved from root
+├── js/
+│   ├── main.js         # Entry point (Orchestrates logic)
+│   ├── core/           # Core Device Communication
+│   │   ├── serial.js   # Web Serial API logic
+│   │   └── ble.js      # Web Bluetooth API logic
+│   ├── visualization/  # Chart.js logic
+│   │   └── chart-handler.js
+│   ├── analysis/       # AI & Analysis (New Placeholders)
+│   │   ├── regression.js
+│   │   ├── classification.js
+│   │   └── statistics.js
+│   └── utils/          # Utilities
+│       ├── i18n.js     # Internationalization
+│       └── helpers.js  # Logging & Formatters
+└── assets/
+    └── images/         # Moved from images/
